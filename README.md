@@ -5,8 +5,6 @@ Aurora is a [briefly describe the project and its purpose].
 ## Table of Contents
 
 * [Features for Terminal](#features-for-terminal)
-* [Getting Started](#getting-started)
-* [Installation](#installation)
 * [Usage](#usage)
 * [legal notice](#legal-notice)
 * [License](#license)
@@ -33,17 +31,6 @@ you need a path to the directory you want to install the package
 ```bash
 cd C:\Users\your_username\your_directory
 ```
-
-## Getting Started
-
-To get started with Aurora, follow these steps:
-
-
-1. [Open the GitHub repository](https://github.com/windowsworldcartoon/Aurora)
-## Installation
-
-To install Aurora, follow these steps:
-1. [Open the GitHub repository](https://github.com/windowsworldcartoon/Aurora)
 
 # license
 this project is licensed under the [MIT License](LICENSE).
