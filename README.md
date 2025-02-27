@@ -25,6 +25,12 @@ you can install packages for example
 ```bash
 pip install requests
 ```
+or
+```bash
+npm install express
+```
+
+
 
 you need a path to the directory you want to install the package
 
