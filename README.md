@@ -18,7 +18,7 @@ Aurora is a [briefly describe the project and its purpose].
 * [rm: Remove a file or directory.]
 
 all theas are windows commands for terminal
-the rest are powershell `commands`
+the rest are powershell or other commands
 
 you can install packages for example 
 
