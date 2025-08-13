@@ -1,4 +1,7 @@
 {
     "name": "Aurora",
-    "version": "1.0"
+    "version": "1.0",
+    "supported": [
+        "1.0"
+    ]
 }
